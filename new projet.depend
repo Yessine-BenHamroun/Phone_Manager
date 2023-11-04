@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1622066244 source:c:\users\yessi\desktop\new projet\projet.c
+	<stdio.h>
+	<stdlib.h>
+	"projet.h"
+	<malloc.h>
+	<string.h>
+	<windows.h>
+
+1621893118 c:\users\yessi\desktop\new projet\projet.h
+
+1622102534 source:c:\users\yessi\desktop\new projet\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"projet.h"
+

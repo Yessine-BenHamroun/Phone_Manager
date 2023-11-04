@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1571529525 source:c:\users\pc\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571657545 source:c:\users\dell\desktop\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
+1571661587 source:d:\kais nouveau\kais 2019_2020\menu deroulant\graphic\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+
